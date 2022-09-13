@@ -14,7 +14,7 @@ Qt Object Platform
 - vessel 数学工具类
 - window Qt 的窗口类
 ## 示例
-![image](https://github.com/hachikuji894/resource-repository/blob/main/images/ededbdf487b6f12ef5ce2dbca296201.png)
+![ededbdf487b6f12ef5ce2dbca296201.png](https://s2.loli.net/2022/09/13/qCYRDJaXjIsw8h2.png)
 ## 本地运行
 - 克隆到本地后用 CLion 打开项目
 - 选择 Qt Creator 下的 /Qt/Tools/mingw730_32 作为 CLion 的 MinGW，并到 /bin 目录设置为电脑环境变量
